@@ -79,7 +79,8 @@ plt.ylabel('Stock Price')
 plt.legend()
 plt.show()
 print('jeevitha')
-print(mse(y_test,predicted_stock_price))SS
+print(mse(y_test,predicted_stock_price))
+```
 ## Output
 
 ### True Stock Price, Predicted Stock Price vs time
